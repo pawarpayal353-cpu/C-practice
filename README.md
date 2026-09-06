@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=DSA+Practice&fontSize=45&fontColor=white&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=C+Practice&fontSize=45&fontColor=white&animation=twinkling" />
  
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=DSA+Practice+Repo+by+Payal+Pawar;C+Language+Basics+in+Progress;C%2B%2B+Starting+Soon;Updating+Daily+with+New+Chapters" />
