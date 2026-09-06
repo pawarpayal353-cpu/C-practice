@@ -7,7 +7,7 @@
 
 
 ### 👋 About This Repo
-This is my **DSA + Coding Practice Repo**.  
+This is my **C and Coding Practice Repo**.  
 Right now I'm focusing on **C Language fundamentals**.  
 From next week I'll start **C++** as well.  
 I update this repo **daily** with new chapters and practice problems.
@@ -18,7 +18,7 @@ I update this repo **daily** with new chapters and practice problems.
 ### 📌 Featured Repositories
 <p align="center">
   <a href="https://github.com/pawarpayal353-cpu/dsa-practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pawarpayal353-cpu&repo=dsa-practice&theme=radical" alt="DSA Practice Repo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pawarpayal353-cpu&repo=dsa-practice&theme=radical" alt="C Practice Repo"/>
   </a>
 </p>
 
